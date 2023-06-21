@@ -1,7 +1,4 @@
-/*! 
- *  JSFuckr v1.0 (mod by @baboures)
- *  Write any JavaScript with 6 Characters: ([+<])
- */
+
 
 (function(self){
   const MIN = 32, MAX = 126;
